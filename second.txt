@@ -3,3 +3,6 @@ i am trying..... again and again!!!!
 and editing this once again!!!!
 again!!!!
 trying to change
+
+unstage - reset;
+update from repository - checkout -- <file name>;
